@@ -16,7 +16,7 @@
 4. Сегментация
 5. Детекция
 6. RNN/LSTM
-7. Transformers/Attention
+7. Encoder-decoder (image captioning). Данные https://www.kaggle.com/datasets/adityajn105/flickr8k
 8. Transformers/TBD
 
 # Домашние задания
